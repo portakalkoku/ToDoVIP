@@ -1,0 +1,37 @@
+[
+    {
+    "day" : "Monday",
+    "task" : "Todo1, Todo2, Todo3, Todo4, Todo5",
+    "completed" : "0, 0, 0, 0, 0"
+    },
+    {
+    "day" :  "Tuesday",
+    "task" : "Todo6, Todo7, Todo8, Todo9",
+    "completed" : "0, 0, 0, 0"
+    },
+    {
+    "day" :  "Wednesday",
+    "task" : "Todo10, Todo11, Todo12, Todo13, Todo14, Todo15",
+    "completed" : "0, 0, 0, 0, 0, 0"
+    },
+    {
+    "day" : "Thursday",
+    "task" : "Todo16, Todo17, Todo18, Todo19, Todo20, Todo21, Todo22",
+    "completed" : "0, 0, 0, 0, 0, 0, 0"
+    },
+    {
+    "day" : "Friday",
+    "task" : "Todo23, Todo24, Todo25",
+    "completed" : "0, 0, 0"
+    },
+    {
+    "day" : "Saturday",
+    "task" : "Todo26",
+    "completed" : "0"
+    },
+    {
+    "day" : "Sunday",
+    "task" : "Todo27, Todo28",
+    "completed" : "0, 0"
+    }
+]
